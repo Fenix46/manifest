@@ -441,5 +441,4 @@
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="Fenix46" revision="zmod-5.1" />
   <project path="vendor/pa" name="android_vendor_pa" remote="Fenix46" revision="lollipop-mr1" >
-
 </manifest>
